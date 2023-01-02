@@ -1,8 +1,8 @@
 FLAIR: Defense against Model Poisoning Attack in Federated Learning
-Author: Anonymous Author (Paper under double-blind review)
+Author: Atul Sharma
 
 Requirement - PyTorch 1.8.1
-The code when run downloads the dataset (MNIST and CIFAR-10) on its own, however, the MNIST dataset folder has been uploaded for convenience
+The code when run downloads the dataset (MNIST and CIFAR-10) on its own, and it isnot available to setup the dataset separately.
 
 Default run - "python main.py"
 -- Runs FEDSGD aggregation with 10 benign clients on MNIST for 20 iterations
